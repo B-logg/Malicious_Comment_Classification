@@ -1,7 +1,7 @@
 # 악성 댓글 자동 감지 및 카테고리별 분류 프로그램 개발
-사용 모델: klue/bert-base model
-사용한 학습 데이터 셋: ‘Smilegate AI’에서 공개한 한국어 혐오 표현 “UnSmile” 데이터 셋(11 labels)
-사용한 실험 데이터 셋: Korean HateSpeech Dataset
+사용 모델: klue/bert-base model\n
+사용한 학습 데이터 셋: ‘Smilegate AI’에서 공개한 한국어 혐오 표현 “UnSmile” 데이터 셋(11 labels)\n
+사용한 실험 데이터 셋: Korean HateSpeech Dataset\n
 
 ## 학습 결과
 <img width="656" alt="image" src="https://github.com/user-attachments/assets/fb908d19-841c-487a-9c6a-854e7cdbe331" />
